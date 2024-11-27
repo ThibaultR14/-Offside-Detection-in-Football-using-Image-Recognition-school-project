@@ -56,11 +56,11 @@ python Part1_SaveData.py
 * The first 2 points for the ***upper horizontal line***.
 * The last 2 points for a ***vertical line***
 
-![Image](/Pic4readme/pic1.png)
+![Image](/Pic4readme/pic1.PNG)
 
 * Once the lines are set, select the player classes:
 
-![Image](/Pic4readme/pic2.png)
+![Image](/Pic4readme/pic2.PNG)
 
 * Click on the players in the order: ***referee → attacker → defender → goalkeeper***.
 
@@ -68,7 +68,7 @@ python Part1_SaveData.py
 * The data will be saved in a file named players_and_lines.json.
 * An image with classified players and lines will be displayed. Close the window with q.
 
-![Image](/Pic4readme/pic3.png)
+![Image](/Pic4readme/pic3.PNG)
 
 
 * ***Run the second script:*** Execute the verification script:
@@ -79,7 +79,7 @@ python Part2_OffsideProgram.py
 ```
 * A black window will appear showing the lines and placed players:
 
-![Image](/Pic4readme/pic4.png)
+![Image](/Pic4readme/pic4.PNG)
 
 * Click on the attacker you want to designate as the receiver.
 * The program will analyze whether the receiver is offside based on the defenders and display the result:
@@ -89,7 +89,7 @@ python Part2_OffsideProgram.py
 
 * **Result**
 
-![Image](/Pic4readme/pic5.png)
+![Image](/Pic4readme/pic5.PNG)
 
 * Close the window after viewing the result.
 
